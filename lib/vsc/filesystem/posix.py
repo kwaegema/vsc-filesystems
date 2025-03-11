@@ -41,6 +41,7 @@ OS_LINUX_IGNORE_FILESYSTEMS = (
     'binfmt_misc',  # ?
     'rpc_pipefs',  # NFS RPC
     'fuse.sshfs',  # X2GO sshfs over fuse
+    'fuse.irods',  # irods fuse
 )
 
 
